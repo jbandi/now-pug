@@ -1,5 +1,7 @@
 Example project that reproduces that `pug` is not wokring with Now 2.0.
 
+It reproduces issue: https://github.com/zeit/now-cli/issues/1790
+
 If you deploy to Now 2.0:
 
     now
